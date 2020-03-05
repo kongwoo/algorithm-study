@@ -1,0 +1,15 @@
+{
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "C_Cpp.updateChannel": "Insiders",
+    "http.proxySupport": "off",
+    "files.autoSave": "onWindowChange",
+    "workbench.colorTheme": "SynthWave '84",
+
+    "vscode_custom_css.imports": [
+        "file:///Users/wukun/Documents/GitHub/algorithm-study/vscode/custom.css",
+        "file:///Users/wukun/Documents/GitHub/algorithm-study/vscode/custom.js"
+    ],
+    "vscode_custom_css.policy": true
+}
